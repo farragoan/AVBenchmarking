@@ -1,7 +1,7 @@
 # AVBenchmarking
 
 Work done as part of the AV Benchmarking SOP conducted under Prof. Naik and Prof. Chakraborty during Jan-April 2021. 
-Students: Dhruv Nagpal, Rohan Kumar, Yash Jain
+Students: Dhruv Nagpal, Rohan Kumar
 
 ***
 Sender refers to the party sharing their screen. Receiver refers to the party who is not sharing the screen.
